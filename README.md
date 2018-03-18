@@ -5,6 +5,7 @@ Easy way to monitor your ping in a compact window
 If you just want to use the program and don't want anything to do with the code:
 - Download and run the ExPing.exe
 - It will ask if you want to log your ping, choose either
+
 - It will ask you for the IP address or website address you want to ping, enter anything you'd want and hit ok
 ![screenshot 1](https://steemitimages.com/0x0/https://res.cloudinary.com/hpiynhbhq/image/upload/v1512156370/a0outcsijhvnqozirgzw.jpg)
 
